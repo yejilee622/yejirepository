@@ -29,11 +29,11 @@ public class MainProgram {
             System.out.println("[Student ID: "+studentID+"]");
             hw2_1515754();
         }
-        else if (studentID == 1612967){
+        /*else if (studentID == 1612967){
             System.out.println("[Student ID: "+studentID+"]");
             hw2_1612967();
         }
-        /*else if (studentID == 1610479) {
+        else if (studentID == 1610479) {
         	System.out.println("[Student ID: "+studentID+"]");
         	hw2_1610479();
         }*/
